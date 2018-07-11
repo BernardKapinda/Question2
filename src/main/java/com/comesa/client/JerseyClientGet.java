@@ -19,6 +19,7 @@ public class JerseyClientGet {
            //System.out.print(getAllTeams());
          // a =  convertTeamsToJson(getAllTeams());
          // System.out.print(a);
+         //me
             try {
 
 			Client client = Client.create();
